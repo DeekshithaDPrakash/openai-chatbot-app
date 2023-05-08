@@ -1,6 +1,6 @@
-This repository is about creating custom openai based chatgpt like chatbot app.
+## This repository is about creating custom openai based chatgpt like chatbot app.
 
-Languages used: HTML, CSS, Python
+### Languages used: HTML, CSS, Python
 
 1.  you need to access the openai API key
 
