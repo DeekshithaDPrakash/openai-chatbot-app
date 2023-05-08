@@ -15,4 +15,4 @@ Languages used: HTML, CSS, Python
 
 4. RESULTS
 ![chats](https://user-images.githubusercontent.com/88123010/236746723-401748e8-6aa2-4fd3-be6c-acbab4689035.PNG)
-![chats2](https://user-images.githubusercontent.com/88123010/236746729-14e285f7-6a3a-426a-b6dc-12421486e231.PNG)
+       ![chats2](https://user-images.githubusercontent.com/88123010/236746729-14e285f7-6a3a-426a-b6dc-12421486e231.PNG)
